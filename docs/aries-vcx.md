@@ -5,8 +5,8 @@
 | Runset | ACME<br>(Issuer) | Bob<br>(Holder) | Faber<br>(Verifier) | Mallory<br>(Holder) | Scope | Results | 
 | ------ | :--------------: | :-------------: | :----------------: | :-----------------: | ----- | :-----: | 
 | [acapy-ariesvcx](#runset-acapy-ariesvcx) | acapy-main<br>0.7.3 | aries-vcx<br>1.0.0 | acapy-main<br>0.7.3 | acapy-main<br>0.7.3 | AIP 1.0 | [**31 / 31<br>100%**](https://allure.vonx.io/api/allure-docker-service/projects/acapy-b-aries-vcx/reports/latest/index.html?redirect=false#behaviors) |
-| [ariesvcx-acapy](#runset-ariesvcx-acapy) | aries-vcx<br>1.0.0 | acapy-main<br>0.7.3 | aries-vcx<br>1.0.0 | aries-vcx<br>1.0.0 | AIP 1.0 | [**20 / 31<br>64%**](https://allure.vonx.io/api/allure-docker-service/projects/aries-vcx-b-acapy/reports/latest/index.html?redirect=false#behaviors) |
-| [ariesvcx-ariesvcx](#runset-ariesvcx-ariesvcx) | aries-vcx<br>1.0.0 | aries-vcx<br>1.0.0 | aries-vcx<br>1.0.0 | aries-vcx<br>1.0.0 | AIP 1.0 | [**30 / 34<br>88%**](https://allure.vonx.io/api/allure-docker-service/projects/aries-vcx/reports/latest/index.html?redirect=false#behaviors) |
+| [ariesvcx-acapy](#runset-ariesvcx-acapy) | aries-vcx<br>1.0.0 | acapy-main<br>0.7.3 | aries-vcx<br>1.0.0 | aries-vcx<br>1.0.0 | AIP 1.0 | [**16 / 31<br>51%**](https://allure.vonx.io/api/allure-docker-service/projects/aries-vcx-b-acapy/reports/latest/index.html?redirect=false#behaviors) |
+| [ariesvcx-ariesvcx](#runset-ariesvcx-ariesvcx) | aries-vcx<br>1.0.0 | aries-vcx<br>1.0.0 | aries-vcx<br>1.0.0 | aries-vcx<br>1.0.0 | AIP 1.0 | [**18 / 34<br>52%**](https://allure.vonx.io/api/allure-docker-service/projects/aries-vcx/reports/latest/index.html?redirect=false#behaviors) |
 
 ## Runset Notes
 
@@ -18,7 +18,7 @@ Runset Name: acapy to aries-vcx
 **Latest results: 31 out of 31 (100%)**
 
 
-*Last run: Wed Jan 26 03:04:40 UTC 2022*
+*Last run: Thu Jan 27 03:01:16 UTC 2022*
 ```
 
 #### Current Runset Status
@@ -37,10 +37,10 @@ No test status note is available for this runset. Please update: .github/workflo
 Runset Name: aries-vcx to acapy
 
 ```tip
-**Latest results: 20 out of 31 (64%)**
+**Latest results: 16 out of 31 (51%)**
 
 
-*Last run: Wed Jan 26 03:00:44 UTC 2022*
+*Last run: Thu Jan 27 02:41:09 UTC 2022*
 ```
 
 #### Current Runset Status
@@ -59,10 +59,10 @@ No test status note is available for this runset. Please update: .github/workflo
 Runset Name: aries-vcx to aries-vcx
 
 ```tip
-**Latest results: 30 out of 34 (88%)**
+**Latest results: 18 out of 34 (52%)**
 
 
-*Last run: Wed Jan 26 02:42:55 UTC 2022*
+*Last run: Thu Jan 27 02:24:41 UTC 2022*
 ```
 
 #### Current Runset Status
